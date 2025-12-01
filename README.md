@@ -1,16 +1,106 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Mohamed Ibrahim(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Mohamed Ibrahim(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+<div align="center">
 
-<!--
-**mohamed-Ibrahim366/mohamed-Ibrahim366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Mohamed Ibrahim" title="👋 Hi there! I'm Mohamed Ibrahim"/>](https://github.com/mohamed-Ibrahim366)
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=650&height=100&lines=I+am+a+Full+Stack+Developer+%F0%9F%9A%80;React.js+%2B+Laravel+Specialist;Problem+Solver+%26+Tech+Builder"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="mailto:mohamed.ibrahim.blaqiti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-995147273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mohamed-Ibrahim366">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mohamed-Ibrahim366&style=for-the-badge&color=blue" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Mohamed Ibrahim**, a Full Stack Web Developer specializing in **React.js**, **PHP**, **Laravel**, and **MySQL**.
+
+* 💡 Passionate about building scalable and user‑focused web applications
+* 🔭 Skilled in back-end architecture & API development
+* 🧠 Strong background in algorithms, OOP, and Linux systems
+* 🤝 Open to collaborations on large‑scale systems and creative products
+* 📫 Reach me via Gmail or LinkedIn anytime!
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages** <br> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Frameworks & Libraries** <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+**Databases & Tools** <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### **Job Board System**
+
+A Laravel-powered platform with job posting, authentication, and full application workflow.
+
+### **Ajyal E‑commerce Website**
+
+E‑commerce system with cart, checkout, and integrated payment gateway.
+
+### **Abrar Platform**
+
+Native project built with optimized core logic and high performance techniques.
+
+### **Fraud Detection System**
+
+Machine learning model detecting fraudulent financial activity.
+
+### **Information Security Project**
+
+Classical encryption algorithms with full web-based interface (HTML/CSS/JS).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-Ibrahim366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-Ibrahim366&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/mohamed-Ibrahim366/mohamed-Ibrahim366/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area                          | Goals                                                   |
+| ----------------------------- | ------------------------------------------------------- |
+| 🌐 **Full Stack Development** | API design, scalable architectures, system optimization |
+| ⚛️ **Frontend Engineering**   | Component-driven UI, React performance, UX patterns     |
+| 🧠 **Computer Science**       | Algorithms, system design, clean architecture           |
+| 🐧 **Linux & DevOps Basics**  | Shell skills, deployment workflows                      |
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
