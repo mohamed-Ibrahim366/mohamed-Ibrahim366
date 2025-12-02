@@ -1,6 +1,9 @@
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Mohamed Ibrahim" title="👋 Hi there! I'm Mohamed Ibrahim"/>](https://github.com/mohamed-Ibrahim366)
+
+## 👋 Hi, I'm Mohamed Ibrahim
+
+
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=650&height=100&lines=I+am+a+Full+Stack+Developer+%F0%9F%9A%80;React.js+%2B+Laravel+Specialist;Problem+Solver+%26+Tech+Builder"/>
 
