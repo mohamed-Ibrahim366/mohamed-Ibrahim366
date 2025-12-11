@@ -80,26 +80,6 @@ Classical encryption algorithms with a full web interface.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-Ibrahim366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-Ibrahim366&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamed-Ibrahim366/mohamed-Ibrahim366/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
