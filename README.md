@@ -11,9 +11,10 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-995147273/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/mohamed-Ibrahim366">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ <a href="https://wa.me/201028713461" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mohamed-Ibrahim366&style=for-the-badge&color=blue" />
