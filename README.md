@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://wa.me/201028713461" target="_blank">
+ <a href="https://wa.me/201282125223" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
@@ -57,6 +57,7 @@ I'm **Mohamed Ibrahim**, a Full Stack Web Developer specializing in **React.js**
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -67,7 +68,7 @@ I'm **Mohamed Ibrahim**, a Full Stack Web Developer specializing in **React.js**
 ### **Job Board System**
 A Laravel-powered platform with job posting, authentication, and full workflow.
 
-### **Ajyal E-commerce Website**
+### **Ajyal E-commerce **
 E-commerce system with cart, checkout, and integrated payment gateway.
 
 ### **Abrar Platform**
