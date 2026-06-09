@@ -2,23 +2,28 @@
 
 ## 👋 Hi, I'm Mohamed Ibrahim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=650&height=100&lines=I+am+a+Full+Stack+Developer+%F0%9F%9A%80;React.js+%2B+Laravel+Specialist;Problem+Solver+%26+Tech+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&height=60&pause=2500&duration=2500&color=36BCF7&lines=Full+Stack+Developer;Laravel+%26+React+Specialist;Building+Scalable+Web+Applications;Computer+Science+Student;Always+Learning+New+Technologies" />
 
-<p>
-  <a href="mailto:mohamed.ibrahim.blaqiti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- <a href="https://wa.me/201282125223" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
+       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=mohamed-Ibrahim366&style=for-the-badge&color=blue" />
 </div>
+
+---
+
+## 📤 Find me on
+
+<a href="mailto:mohamed.ibrahim.blaqiti@gmail.com">
+  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/">
+  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+<a href="#">
+  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a>
 
 ---
 
@@ -26,49 +31,28 @@
 
 I'm **Mohamed Ibrahim**, a Full Stack Web Developer specializing in **React.js**, **PHP**, **Laravel**, and **MySQL**.
 
-- 💡 Passionate about building scalable and user-focused web applications  
-- 🔭 Skilled in back-end architecture & API development  
-- 🧠 Strong background in algorithms, OOP, and Linux systems  
-- 🤝 Open to collaborations on large-scale systems and creative products  
+- 💡 Passionate about building scalable and user-focused web applications
+- 🔭 Skilled in back-end architecture & API development
+- 🧠 Strong background in algorithms, OOP, and Linux systems
+- 🤝 Open to collaborations on large-scale systems and creative products
 - 📫 Reach me via Gmail or LinkedIn anytime!
 
 ---
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
 ## 💻 Tech Stack
 
-<div align="center">
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-**Languages**  
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,php,js,react,laravel,mysql,mongodb,docker,git,github,linux,postman,vscode&perline=8" /> </div>
 
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-**Databases & Tools**  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
 ### **Job Board System**
 A Laravel-powered platform with job posting, authentication, and full workflow.
 
-### **Ajyal E-commerce **
+### **Ajyal E-commerce**
 E-commerce system with cart, checkout, and integrated payment gateway.
 
 ### **Abrar Platform**
@@ -84,16 +68,12 @@ Classical encryption algorithms with a full web interface.
 
 ## 🎯 Current Focus
 
-<div align="center">
-
 | Area | Goals |
 |------|--------|
 | 🌐 **Full Stack Development** | API design, scalable architectures, system optimization |
 | ⚛️ **Frontend Engineering** | Component-driven UI, React performance, UX patterns |
 | 🧠 **Computer Science** | Algorithms, system design, clean architecture |
 | 🐧 **Linux & DevOps Basics** | Shell scripting, deployment workflows |
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
