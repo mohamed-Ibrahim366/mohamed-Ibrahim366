@@ -17,13 +17,17 @@
 ---
 
 ## 📤 Find me on
-
 <a href="mailto:mohamed.ibrahim.blaqiti@gmail.com">
-  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/">
-  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
-<a href="#">
-  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a>
+  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/>
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/" target="_blank">
+  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/>
+</a> &nbsp;
+
+<a href="https://wa.me/201287094962" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="45" alt="WhatsApp"/>
+</a>
 
 ---
 
