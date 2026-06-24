@@ -5,25 +5,32 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&height=60&pause=2500&duration=2500&color=36BCF7&lines=Full+Stack+Developer;Laravel+%26+React+Specialist;Building+Scalable+Web+Applications;Computer+Science+Student;Always+Learning+New+Technologies" />
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
+  <a href="YOUR_CV_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-005020?style=flat" style="height:35px; object-fit:contain;"/>
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/>
+  </a>
 </p>
-       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/>
 
 </div>
 
 ---
 
 ## 📤 Find me on
-<a href="mailto:mohamed.ibrahim.blaqiti@gmail.com">
+
+<a href="mailto:mo7med.ibrahim2244@gmail.com">
   <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/>
-</a> &nbsp;
+</a>
+&nbsp;
 
 <a href="https://www.linkedin.com/in/mohamed-ibrahim-7493003a8/" target="_blank">
   <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/>
-</a> &nbsp;
+</a>
+&nbsp;
 
 <a href="https://wa.me/201287094962" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="45" alt="WhatsApp"/>
@@ -47,9 +54,11 @@ I'm **Mohamed Ibrahim**, a Full Stack Web Developer specializing in **React.js**
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-<div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,php,js,react,laravel,mysql,mongodb,docker,git,github,linux,postman,vscode&perline=8" /> </div>
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,php,js,react,laravel,mysql,mongodb,docker,git,github,linux,postman,vscode&perline=8" />
+</div>
 
-
+---
 
 ## 📌 Featured Projects
 
