@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/My%20CV-005020?style=flat" style="height:35px; object-fit:contain;"/>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://mohamed-ibrahim-portfolio-seven.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/>
   </a>
 </p>
