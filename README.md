@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=700&height=60&pause=2500&duration=2500&color=36BCF7&lines=Full+Stack+Developer;Laravel+%26+React+Specialist;Building+Scalable+Web+Applications;Computer+Science+Student;Always+Learning+New+Technologies" />
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/16KYpyFof3hDPPdB8PwXP_sCpAcCT0j6h/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1ZCDn4n5mnqWKGHeXFYUl9aazDsPrGogH?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-005020?style=flat" style="height:35px; object-fit:contain;"/>
   </a>
   &nbsp;
